@@ -1,0 +1,1 @@
+import{a as o,b as s,v as t,s as r,t as a,o as n}from"./entry.b8bf28f2.js";const c={};function l(e,p){return n(),s("div",null,[t(" user "),r("p",null,"group:"+a(e.$route.params.group),1),r("p",null,"id:"+a(e.$route.params.id),1)])}const d=o(c,[["render",l]]);export{d as default};

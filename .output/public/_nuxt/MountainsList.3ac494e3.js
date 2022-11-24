@@ -1,0 +1,1 @@
+import{a as n,o as l,b as s,s as e}from"./entry.b8bf28f2.js";const t={},o=e("ul",null,[e("li",null,"1"),e("li",null,"2"),e("li",null,"3")],-1),c=[o];function a(r,_){return l(),s("div",null,c)}const u=n(t,[["render",a]]);export{u as default};
